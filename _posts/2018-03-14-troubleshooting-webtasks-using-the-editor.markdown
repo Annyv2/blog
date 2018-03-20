@@ -2,7 +2,7 @@
 layout: post_extend
 title: "Troubleshooting Webtasks: Using the Editor"
 description: "Learn how to troubleshoot webtasks from monitoring logs in the editor all the way to debugging locally using devtool and visual studio code."
-longdescription: "The Webtasks platform that powers Auth0 Extend, Webtask.io and Auth0 Hooks is a very powerful system. Learn how to troubleshoot webtasks from monitoring logs in the editor all the way to debugging locally using devtool and visual studio code."
+longdescription: "The Webtasks platform that powers Auth0 Extend and Webtask.io is a very powerful system. Learn how to troubleshoot webtasks from monitoring logs in the editor all the way to debugging locally using devtool and visual studio code."
 date: 2018-03-14 08:00
 category: Extend, Technical, Webtasks
 press_release: false
@@ -36,6 +36,7 @@ The full list of posts in this series:
 - [Troubleshooting Webtasks: Using the CLI](https://auth0.com/blog/troubleshooting-webtasks-using-the-cli/)
 - [Troubleshooting Webtasks: Using Debuggers](https://auth0.com/blog/troubleshooting-webtasks-using-debuggers/)
 
+
 This post covers the tools built into the Webtasks Editor, here are some shortcuts to help you locate the topics you are interested in quickly.
 
 - <a href="#watching-execution-with-the-logs-panel" target="_self">Watching execution with the editor Logs panel</a>
@@ -44,7 +45,7 @@ This post covers the tools built into the Webtasks Editor, here are some shortcu
 ---
 
 
-The Webtasks technology that powers [Auth0 Extend](https://auth0.com/extend/), [Webtask.io](https://webtask.io/) and [Auth0 Hooks](https://auth0.com/docs/hooks) is a very powerful system. It allows end users to provide the functionality they need by writing simple logic in JavaScript. That JavaScript is then securely sandboxed and executed with extremely low latency while protecting the security and performance of other customers and the technology itself.
+The Webtasks technology that powers [Auth0 Extend](https://auth0.com/extend/) and [Webtask.io](https://webtask.io/) is a very powerful system. It allows end users to provide the functionality they need by writing simple logic in JavaScript. That JavaScript is then securely sandboxed and executed with extremely low latency while protecting the security and performance of other customers and the technology itself.
 
 Whether you are building a fun weekend project, ensuring your authorized users are members of a specific domain or offering your customers an easy way to customize your SaaS; the Webtasks technology allows you to accomplish your goals without placing the burden of hosting, monitoring or scaling on you or your users.
 
